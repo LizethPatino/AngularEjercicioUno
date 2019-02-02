@@ -13,4 +13,6 @@ export class BodyComponent {
       mensaje: 'Un gran poder requiere una gran responsabilidad.',
       autor: 'Ben Parker'
     };
+
+    personajes: string [] = ['Spiderman', 'Iron Man', 'Thor', 'Doctor Strange', 'Capitan America'];
 }
